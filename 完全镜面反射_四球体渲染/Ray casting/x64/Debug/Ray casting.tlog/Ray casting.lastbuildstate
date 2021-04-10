@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17763.0
+Debug|x64|E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter24_Specular reflection\Specular reflection_13\|

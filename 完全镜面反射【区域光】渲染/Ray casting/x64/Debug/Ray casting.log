@@ -1,0 +1,18 @@
+﻿  PinHole.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  World.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(29): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(129): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(166): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(179): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(183): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(209): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(210): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(287): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_16\ray casting\world.cpp(294): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Ray casting.vcxproj -> E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter24_Specular reflection\Specular reflection_16\x64\Debug\Ray casting.exe

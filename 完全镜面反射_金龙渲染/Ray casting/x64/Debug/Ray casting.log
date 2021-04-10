@@ -1,0 +1,25 @@
+﻿  World.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(147): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(148): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(179): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(191): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(203): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(204): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(213): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(214): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(226): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(227): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(235): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(236): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(259): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(281): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(299): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(317): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(418): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter24_specular reflection\specular reflection_14\ray casting\world.cpp(425): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+    正在创建库 E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter24_Specular reflection\Specular reflection_14\x64\Debug\Ray casting.lib 和对象 E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter24_Specular reflection\Specular reflection_14\x64\Debug\Ray casting.exp
+  Ray casting.vcxproj -> E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter24_Specular reflection\Specular reflection_14\x64\Debug\Ray casting.exe

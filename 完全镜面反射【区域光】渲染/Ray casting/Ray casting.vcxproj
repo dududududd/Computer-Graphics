@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{CB9C6FB2-83F1-4463-8808-6F86FB6C5FCE}</ProjectGuid>
+    <Keyword>MFCProj</Keyword>
+    <RootNamespace>Raycasting</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+    <UseOfMfc>Dynamic</UseOfMfc>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <IncludePath>E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter23_Triangular mesh\Triangular mesh_1\Ray casting;$(IncludePath)</IncludePath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_WINDOWS;_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+      <OpenMPSupport>true</OpenMPSupport>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>_DEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_WINDOWS;NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <PrecompiledHeaderFile>pch.h</PrecompiledHeaderFile>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+    <Midl>
+      <MkTypLibCompatible>false</MkTypLibCompatible>
+      <ValidateAllParameters>true</ValidateAllParameters>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+    </Midl>
+    <ResourceCompile>
+      <Culture>0x0804</Culture>
+      <PreprocessorDefinitions>NDEBUG;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>$(IntDir);%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="Ambient.h" />
+    <ClInclude Include="AmbientOccluder.h" />
+    <ClInclude Include="AreaLight.h" />
+    <ClInclude Include="AreaLighting.h" />
+    <ClInclude Include="BBox.h" />
+    <ClInclude Include="Box.h" />
+    <ClInclude Include="BRDF.h" />
+    <ClInclude Include="Camera.h" />
+    <ClInclude Include="CBezierPatch.h" />
+    <ClInclude Include="CMesh.h" />
+    <ClInclude Include="Compound.h" />
+    <ClInclude Include="Constants.h" />
+    <ClInclude Include="CT2.h" />
+    <ClInclude Include="CTeapot.h" />
+    <ClInclude Include="EnvironmentLight.h" />
+    <ClInclude Include="FlatMeshTriangle.h" />
+    <ClInclude Include="Grid.h" />
+    <ClInclude Include="Mesh.h" />
+    <ClInclude Include="MeshTriangle.h" />
+    <ClInclude Include="PartSphere.h" />
+    <ClInclude Include="Disk.h" />
+    <ClInclude Include="Directional.h" />
+    <ClInclude Include="Emissive.h" />
+    <ClInclude Include="framework.h" />
+    <ClInclude Include="GenericSphere.h" />
+    <ClInclude Include="GeometricObject.h" />
+    <ClInclude Include="GlossySpecular.h" />
+    <ClInclude Include="Hammersley.h" />
+    <ClInclude Include="Instance.h" />
+    <ClInclude Include="Jittered.h" />
+    <ClInclude Include="Lambertian.h" />
+    <ClInclude Include="Light.h" />
+    <ClInclude Include="MainFrm.h" />
+    <ClInclude Include="Material.h" />
+    <ClInclude Include="Maths.h" />
+    <ClInclude Include="Matrix.h" />
+    <ClInclude Include="Matte.h" />
+    <ClInclude Include="MultiJittered.h" />
+    <ClInclude Include="MultipleObjects.h" />
+    <ClInclude Include="Normal.h" />
+    <ClInclude Include="NRooks.h" />
+    <ClInclude Include="OpenCylinder.h" />
+    <ClInclude Include="PathTrace.h" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="PerfectSpecular.h" />
+    <ClInclude Include="Phong.h" />
+    <ClInclude Include="PinHole.h" />
+    <ClInclude Include="Plane.h" />
+    <ClInclude Include="ply.h" />
+    <ClInclude Include="Point2D.h" />
+    <ClInclude Include="Point3D.h" />
+    <ClInclude Include="PointLight.h" />
+    <ClInclude Include="PureRandom.h" />
+    <ClInclude Include="Ray casting.h" />
+    <ClInclude Include="Ray castingDoc.h" />
+    <ClInclude Include="Ray castingView.h" />
+    <ClInclude Include="Ray.h" />
+    <ClInclude Include="RayCast.h" />
+    <ClInclude Include="CRectangle.h" />
+    <ClInclude Include="Reflective.h" />
+    <ClInclude Include="Regular.h" />
+    <ClInclude Include="Resource.h" />
+    <ClInclude Include="RGBColor.h" />
+    <ClInclude Include="RoundrimSolidBowl.h" />
+    <ClInclude Include="Sampler.h" />
+    <ClInclude Include="ShadeRec.h" />
+    <ClInclude Include="SingleSphere.h" />
+    <ClInclude Include="SmoothMeshTriangle.h" />
+    <ClInclude Include="SmoothTriangle.h" />
+    <ClInclude Include="SolidCylinder.h" />
+    <ClInclude Include="Sphere.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="Torus.h" />
+    <ClInclude Include="Torus_1.h" />
+    <ClInclude Include="Tracer.h" />
+    <ClInclude Include="Triangle.h" />
+    <ClInclude Include="Vector3D.h" />
+    <ClInclude Include="ViewPlane.h" />
+    <ClInclude Include="Whitted.h" />
+    <ClInclude Include="World.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ambient.cpp" />
+    <ClCompile Include="AmbientOccluder.cpp" />
+    <ClCompile Include="AreaLight.cpp" />
+    <ClCompile Include="AreaLighting.cpp" />
+    <ClCompile Include="BBox.cpp" />
+    <ClCompile Include="Box.cpp" />
+    <ClCompile Include="BRDF.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CBezierPatch.cpp" />
+    <ClCompile Include="CMesh.cpp" />
+    <ClCompile Include="Compound.cpp" />
+    <ClCompile Include="CT2.cpp" />
+    <ClCompile Include="CTeapot.cpp" />
+    <ClCompile Include="EnvironmentLight.cpp" />
+    <ClCompile Include="FlatMeshTriangle.cpp" />
+    <ClCompile Include="Grid.cpp" />
+    <ClCompile Include="Mesh.cpp" />
+    <ClCompile Include="MeshTriangle.cpp" />
+    <ClCompile Include="PartSphere.cpp" />
+    <ClCompile Include="Disk.cpp" />
+    <ClCompile Include="Directional.cpp" />
+    <ClCompile Include="Emissive.cpp" />
+    <ClCompile Include="GenericSphere.cpp" />
+    <ClCompile Include="GeometricObject.cpp" />
+    <ClCompile Include="GlossySpecular.cpp" />
+    <ClCompile Include="Hammersley.cpp" />
+    <ClCompile Include="Instance.cpp" />
+    <ClCompile Include="Jittered.cpp" />
+    <ClCompile Include="Lambertian.cpp" />
+    <ClCompile Include="Light.cpp" />
+    <ClCompile Include="MainFrm.cpp" />
+    <ClCompile Include="Material.cpp" />
+    <ClCompile Include="Maths.cpp" />
+    <ClCompile Include="Matrix.cpp" />
+    <ClCompile Include="Matte.cpp" />
+    <ClCompile Include="MultiJittered.cpp" />
+    <ClCompile Include="MultipleObjects.cpp" />
+    <ClCompile Include="Normal.cpp" />
+    <ClCompile Include="NRooks.cpp" />
+    <ClCompile Include="OpenCylinder.cpp" />
+    <ClCompile Include="PathTrace.cpp" />
+    <ClCompile Include="pch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="PerfectSpecular.cpp" />
+    <ClCompile Include="Phong.cpp" />
+    <ClCompile Include="PinHole.cpp" />
+    <ClCompile Include="Plane.cpp" />
+    <ClCompile Include="ply.c" />
+    <ClCompile Include="Point2D.cpp" />
+    <ClCompile Include="Point3D.cpp" />
+    <ClCompile Include="PointLight.cpp" />
+    <ClCompile Include="PureRandom.cpp" />
+    <ClCompile Include="Ray casting.cpp" />
+    <ClCompile Include="Ray castingDoc.cpp" />
+    <ClCompile Include="Ray castingView.cpp" />
+    <ClCompile Include="Ray.cpp" />
+    <ClCompile Include="RayCast.cpp" />
+    <ClCompile Include="CRectangle.cpp" />
+    <ClCompile Include="Reflective.cpp" />
+    <ClCompile Include="Regular.cpp" />
+    <ClCompile Include="RGBColor.cpp" />
+    <ClCompile Include="RoundrimSolidBowl.cpp" />
+    <ClCompile Include="Sampler.cpp" />
+    <ClCompile Include="ShadeRec.cpp" />
+    <ClCompile Include="SingleSphere.cpp" />
+    <ClCompile Include="SmoothMeshTriangle.cpp" />
+    <ClCompile Include="SmoothTriangle.cpp" />
+    <ClCompile Include="SolidCylinder.cpp" />
+    <ClCompile Include="Sphere.cpp" />
+    <ClCompile Include="Torus.cpp" />
+    <ClCompile Include="Torus_1.cpp" />
+    <ClCompile Include="Tracer.cpp" />
+    <ClCompile Include="Triangle.cpp" />
+    <ClCompile Include="Vector3D.cpp" />
+    <ClCompile Include="ViewPlane.cpp" />
+    <ClCompile Include="Whitted.cpp" />
+    <ClCompile Include="World.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Raycasting.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Raycasting.rc2" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Ray casting.ico" />
+    <Image Include="res\Ray castingDoc.ico" />
+    <Image Include="res\Toolbar.bmp" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

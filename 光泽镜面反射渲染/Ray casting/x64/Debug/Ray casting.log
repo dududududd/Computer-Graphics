@@ -1,0 +1,183 @@
+﻿  AmbientOccluder.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\ambientoccluder.cpp(9): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\ambientoccluder.cpp(52): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  AreaLight.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\arealight.cpp(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\arealight.cpp(36): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\arealight.cpp(50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\arealight.cpp(62): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\arealight.cpp(63): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  AreaLighting.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Box.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(85): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(90): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(96): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(104): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(109): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(114): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(190): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(209): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(214): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(219): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Compound.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\compound.cpp(20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\compound.cpp(39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\compound.cpp(69): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\compound.cpp(84): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\compound.cpp(89): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Directional.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\directional.cpp(46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Emissive.cpp
+  EnvironmentLight.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\environmentlight.cpp(48): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\environmentlight.cpp(49): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\environmentlight.cpp(63): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  FlatMeshTriangle.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  GenericSphere.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\genericsphere.cpp(73): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\genericsphere.cpp(81): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  GlossyReflector.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Instance.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(158): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(163): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(168): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(184): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(189): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Matte.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\matte.cpp(4): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\matte.cpp(44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\matte.cpp(49): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\matte.cpp(78): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\matte.cpp(83): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  MultipleObjects.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  OpenCylinder.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\opencylinder.cpp(122): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\opencylinder.cpp(135): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  PartSphere.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(58): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(61): warning C4305: “+=”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(81): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(85): warning C4305: “+=”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(125): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(128): warning C4305: “+=”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(142): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(146): warning C4305: “+=”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\partsphere.cpp(150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Phong.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\phong.cpp(65): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\phong.cpp(70): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\phong.cpp(99): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\phong.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  PinHole.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  PointLight.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\pointlight.cpp(45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  Ray casting.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  正在生成代码...
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\instance.cpp(44): warning C4715: “Instance::operator=”: 不是所有的控件路径都返回值
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\box.cpp(253): warning C4715: “Box::get_normal”: 不是所有的控件路径都返回值
+  正在编译...
+  Ray castingView.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  RayCast.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Reflective.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  ShadeRec.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  SmoothMeshTriangle.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\smoothmeshtriangle.cpp(78): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+  SmoothTriangle.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\smoothtriangle.cpp(95): warning C4244: “参数”: 从“double”转换到“const float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\smoothtriangle.cpp(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Torus.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Torus_1.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\torus_1.cpp(27): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\torus_1.cpp(53): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  Triangle.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\triangle.cpp(98): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Whitted.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  World.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\constants.h(20): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(141): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(142): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(146): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(163): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(175): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(187): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(188): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(198): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(199): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(209): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(210): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(220): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(221): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(242): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(256): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(269): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(293): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(312): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(414): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter25_glossy reflection\glossy reflection_1\ray casting\world.cpp(421): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  Ray casting.vcxproj -> E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter25_Glossy reflection\Glossy reflection_1\x64\Debug\Ray casting.exe

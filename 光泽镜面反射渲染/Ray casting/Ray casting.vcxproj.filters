@@ -1,0 +1,558 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="工具类">
+      <UniqueIdentifier>{992cbe9f-29b0-4a6e-9103-880120481098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="跟踪器类">
+      <UniqueIdentifier>{7c580eb5-0a90-4add-b431-3afda359300c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="场景类">
+      <UniqueIdentifier>{aa14dc3b-a12c-4d84-aae2-7d78a760450b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="几何对象类">
+      <UniqueIdentifier>{38f03532-8631-4bb8-b72b-4f5aa0a0e054}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="采样器类">
+      <UniqueIdentifier>{3310b782-0bf6-420d-b4d9-2ff3c929cdc3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="相机类">
+      <UniqueIdentifier>{d7fed70d-f74c-4185-9638-e8655bcb9339}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BRDF类">
+      <UniqueIdentifier>{12d1f413-9b0a-451d-ac56-92dc864124a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="光照类">
+      <UniqueIdentifier>{73d0e662-aef3-411f-a820-b16106e81224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="材质类">
+      <UniqueIdentifier>{46baa6c2-ab8a-424b-9489-cf200cd2a97b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="包围盒体类">
+      <UniqueIdentifier>{970aaac6-dc11-4d91-ae61-0403b2c1abb7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="实例化对象类">
+      <UniqueIdentifier>{4a3cda88-3f8c-40e7-977b-3530f3c1fbed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="规则栅格类">
+      <UniqueIdentifier>{f0e1fab9-d6a9-4925-9658-a30f57a9bf7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="三角形网格类">
+      <UniqueIdentifier>{b7b052be-886c-4237-8c0e-3283e6dfb5db}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bezier曲面片类">
+      <UniqueIdentifier>{2dd37d6a-ea59-4113-98dd-0daaa6ba219e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ray casting.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ray castingDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Ray castingView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Matrix.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Normal.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Point2D.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Point3D.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="RGBColor.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3D.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Ray.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadeRec.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Tracer.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="SingleSphere.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="World.h">
+      <Filter>场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewPlane.h">
+      <Filter>场景类</Filter>
+    </ClInclude>
+    <ClInclude Include="GeometricObject.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Plane.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Sphere.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="MultipleObjects.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Sampler.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Jittered.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="MultiJittered.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Regular.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="PureRandom.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="NRooks.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Maths.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Hammersley.h">
+      <Filter>采样器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>相机类</Filter>
+    </ClInclude>
+    <ClInclude Include="PinHole.h">
+      <Filter>相机类</Filter>
+    </ClInclude>
+    <ClInclude Include="BRDF.h">
+      <Filter>BRDF类</Filter>
+    </ClInclude>
+    <ClInclude Include="Lambertian.h">
+      <Filter>BRDF类</Filter>
+    </ClInclude>
+    <ClInclude Include="PerfectSpecular.h">
+      <Filter>BRDF类</Filter>
+    </ClInclude>
+    <ClInclude Include="GlossySpecular.h">
+      <Filter>BRDF类</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="Ambient.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="PointLight.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="Material.h">
+      <Filter>材质类</Filter>
+    </ClInclude>
+    <ClInclude Include="RayCast.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Matte.h">
+      <Filter>材质类</Filter>
+    </ClInclude>
+    <ClInclude Include="Directional.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="Whitted.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaLighting.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="PathTrace.h">
+      <Filter>跟踪器类</Filter>
+    </ClInclude>
+    <ClInclude Include="Phong.h">
+      <Filter>材质类</Filter>
+    </ClInclude>
+    <ClInclude Include="AmbientOccluder.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="Emissive.h">
+      <Filter>材质类</Filter>
+    </ClInclude>
+    <ClInclude Include="AreaLight.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="CRectangle.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="BBox.h">
+      <Filter>包围盒体类</Filter>
+    </ClInclude>
+    <ClInclude Include="Torus.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Box.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Triangle.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Disk.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="OpenCylinder.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="Compound.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="SolidCylinder.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="GenericSphere.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Instance.h">
+      <Filter>实例化对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Torus_1.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="PartSphere.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="RoundrimSolidBowl.h">
+      <Filter>几何对象类</Filter>
+    </ClInclude>
+    <ClInclude Include="Grid.h">
+      <Filter>规则栅格类</Filter>
+    </ClInclude>
+    <ClInclude Include="Mesh.h">
+      <Filter>三角形网格类</Filter>
+    </ClInclude>
+    <ClInclude Include="MeshTriangle.h">
+      <Filter>三角形网格类</Filter>
+    </ClInclude>
+    <ClInclude Include="FlatMeshTriangle.h">
+      <Filter>三角形网格类</Filter>
+    </ClInclude>
+    <ClInclude Include="SmoothMeshTriangle.h">
+      <Filter>三角形网格类</Filter>
+    </ClInclude>
+    <ClInclude Include="SmoothTriangle.h">
+      <Filter>三角形网格类</Filter>
+    </ClInclude>
+    <ClInclude Include="ply.h">
+      <Filter>工具类</Filter>
+    </ClInclude>
+    <ClInclude Include="CBezierPatch.h">
+      <Filter>Bezier曲面片类</Filter>
+    </ClInclude>
+    <ClInclude Include="CTeapot.h">
+      <Filter>Bezier曲面片类</Filter>
+    </ClInclude>
+    <ClInclude Include="CT2.h">
+      <Filter>Bezier曲面片类</Filter>
+    </ClInclude>
+    <ClInclude Include="CMesh.h">
+      <Filter>Bezier曲面片类</Filter>
+    </ClInclude>
+    <ClInclude Include="Reflective.h">
+      <Filter>材质类</Filter>
+    </ClInclude>
+    <ClInclude Include="EnvironmentLight.h">
+      <Filter>光照类</Filter>
+    </ClInclude>
+    <ClInclude Include="GlossyReflector.h">
+      <Filter>材质类</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Ray casting.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ray castingDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Ray castingView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Matrix.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Normal.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Point2D.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Point3D.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="RGBColor.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Vector3D.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Ray.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadeRec.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Tracer.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="SingleSphere.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="World.cpp">
+      <Filter>场景类</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewPlane.cpp">
+      <Filter>场景类</Filter>
+    </ClCompile>
+    <ClCompile Include="GeometricObject.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Plane.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Sphere.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="MultipleObjects.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Sampler.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Jittered.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="MultiJittered.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Regular.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="PureRandom.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="NRooks.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Maths.cpp">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="Hammersley.cpp">
+      <Filter>采样器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>相机类</Filter>
+    </ClCompile>
+    <ClCompile Include="PinHole.cpp">
+      <Filter>相机类</Filter>
+    </ClCompile>
+    <ClCompile Include="BRDF.cpp">
+      <Filter>BRDF类</Filter>
+    </ClCompile>
+    <ClCompile Include="Lambertian.cpp">
+      <Filter>BRDF类</Filter>
+    </ClCompile>
+    <ClCompile Include="PerfectSpecular.cpp">
+      <Filter>BRDF类</Filter>
+    </ClCompile>
+    <ClCompile Include="GlossySpecular.cpp">
+      <Filter>BRDF类</Filter>
+    </ClCompile>
+    <ClCompile Include="Light.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="Ambient.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="PointLight.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="Material.cpp">
+      <Filter>材质类</Filter>
+    </ClCompile>
+    <ClCompile Include="RayCast.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Matte.cpp">
+      <Filter>材质类</Filter>
+    </ClCompile>
+    <ClCompile Include="Directional.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="Whitted.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaLighting.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="PathTrace.cpp">
+      <Filter>跟踪器类</Filter>
+    </ClCompile>
+    <ClCompile Include="Phong.cpp">
+      <Filter>材质类</Filter>
+    </ClCompile>
+    <ClCompile Include="AmbientOccluder.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="Emissive.cpp">
+      <Filter>材质类</Filter>
+    </ClCompile>
+    <ClCompile Include="AreaLight.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="CRectangle.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="BBox.cpp">
+      <Filter>包围盒体类</Filter>
+    </ClCompile>
+    <ClCompile Include="Torus.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Box.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Disk.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="OpenCylinder.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Compound.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="SolidCylinder.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="GenericSphere.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Instance.cpp">
+      <Filter>实例化对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Torus_1.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="PartSphere.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="RoundrimSolidBowl.cpp">
+      <Filter>几何对象类</Filter>
+    </ClCompile>
+    <ClCompile Include="Grid.cpp">
+      <Filter>规则栅格类</Filter>
+    </ClCompile>
+    <ClCompile Include="Mesh.cpp">
+      <Filter>三角形网格类</Filter>
+    </ClCompile>
+    <ClCompile Include="MeshTriangle.cpp">
+      <Filter>三角形网格类</Filter>
+    </ClCompile>
+    <ClCompile Include="FlatMeshTriangle.cpp">
+      <Filter>三角形网格类</Filter>
+    </ClCompile>
+    <ClCompile Include="SmoothMeshTriangle.cpp">
+      <Filter>三角形网格类</Filter>
+    </ClCompile>
+    <ClCompile Include="SmoothTriangle.cpp">
+      <Filter>三角形网格类</Filter>
+    </ClCompile>
+    <ClCompile Include="ply.c">
+      <Filter>工具类</Filter>
+    </ClCompile>
+    <ClCompile Include="CBezierPatch.cpp">
+      <Filter>Bezier曲面片类</Filter>
+    </ClCompile>
+    <ClCompile Include="CTeapot.cpp">
+      <Filter>Bezier曲面片类</Filter>
+    </ClCompile>
+    <ClCompile Include="CT2.cpp">
+      <Filter>Bezier曲面片类</Filter>
+    </ClCompile>
+    <ClCompile Include="CMesh.cpp">
+      <Filter>Bezier曲面片类</Filter>
+    </ClCompile>
+    <ClCompile Include="Reflective.cpp">
+      <Filter>材质类</Filter>
+    </ClCompile>
+    <ClCompile Include="EnvironmentLight.cpp">
+      <Filter>光照类</Filter>
+    </ClCompile>
+    <ClCompile Include="GlossyReflector.cpp">
+      <Filter>材质类</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Raycasting.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\Raycasting.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\Ray castingDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Ray casting.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\Toolbar.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

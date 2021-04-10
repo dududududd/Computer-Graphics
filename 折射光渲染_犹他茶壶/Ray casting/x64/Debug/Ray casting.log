@@ -1,0 +1,63 @@
+﻿  pch.cpp
+  PerfectTransmitter.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\constants.h(24): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\perfecttransmitter.cpp(33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\perfecttransmitter.cpp(40): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\perfecttransmitter.cpp(43): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\perfecttransmitter.cpp(59): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\perfecttransmitter.cpp(63): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  World.cpp
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\constants.h(24): warning C4305: “初始化”: 从“double”到“float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\maths.h(92): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(19): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(35): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(140): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(143): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(144): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(162): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(163): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(165): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(176): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(177): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(179): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(189): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(190): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(194): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(195): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(197): warning C4305: “参数”: 从“double”到“const float”截断
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(278): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\world.cpp(285): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  ply.c
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.h(171): warning C4273: “strdup”: dll 链接不一致
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: 参见“strdup”的前一个定义
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(206): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(214): warning C4047: “=”:“FILE *”与“errno_t”的间接级别不同
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(200): warning C4101: “elem”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(198): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(402): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(404): warning C4101: “prop”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(524): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(750): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(825): warning C4267: “函数”: 从“size_t”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1229): warning C4101: “num_elems”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1411): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1484): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1606): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1750): warning C4101: “j”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1750): warning C4101: “i”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(1938): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2121): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2122): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2126): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2127): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2203): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2204): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2209): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2210): warning C4244: “=”: 从“double”转换到“unsigned int”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2328): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2408): warning C4101: “count_type”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2407): warning C4101: “prop_type”: 未引用的局部变量
+e:\important\ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\chapter27_transparency\transparency_9\ray casting\ply.c(2553): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+    正在创建库 E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter27_Transparency\Transparency_9\x64\Debug\Ray casting.lib 和对象 E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter27_Transparency\Transparency_9\x64\Debug\Ray casting.exp
+  Ray casting.vcxproj -> E:\Important\Ray tracing\光线跟踪（以《光线跟踪算法技术》编写）\开发程序\Chapter27_Transparency\Transparency_9\x64\Debug\Ray casting.exe
