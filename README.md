@@ -21,3 +21,14 @@
 #### 使用注意说明
 
 该项目主要使用的是MFC框架，开发语言是C++，用户若已安装MFC环境，可直接运行程序查看渲染效果。
+
+#### 参考资料
+1.《Ray Tracing From The Ground Up》
+2.《An Introduction to Ray Tracing》
+3.《Fundamentals of Computer Graphics,fourth edition》
+#### 运行效果
+
+
+
+
+
