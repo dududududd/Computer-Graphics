@@ -26,9 +26,3 @@
 1.《Ray Tracing From The Ground Up》
 2.《An Introduction to Ray Tracing》
 3.《Fundamentals of Computer Graphics,fourth edition》
-#### 运行效果
-
-
-
-
-
